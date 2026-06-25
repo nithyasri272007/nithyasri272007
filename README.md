@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋, I'm Nithya Sri
 
-<!--
-**nithyasri272007/nithyasri272007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Third Year Computer Science Student
 
-Here are some ideas to get you started:
+💻 Aspiring Software Engineer @ Microsoft & Google
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- Data Structures & Algorithms (Java)
+- Object Oriented Programming
+- System Design Basics
+
+🚀 Interests
+- Backend Development
+- Artificial Intelligence
+- Cloud Computing
+
+📫 Reach Me
+LinkedIn:linkedin.com/in/nithyasri-h
+Email:nithyasri27.2007@gmail.com
+
+⚡ Fun Fact
+I enjoy solving LeetCode problems every day.
